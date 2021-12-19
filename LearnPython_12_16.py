@@ -19,3 +19,5 @@ print('工作有点不顺心'+name+str(age))
 
 N=input('今天想要什么礼物')
 print(N)
+
+
